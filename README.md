@@ -4,7 +4,7 @@
 
 
 
-
+<img alt="Issues" src="https://te.legra.ph/file/3561366b27229e980bc42.jpg"></a>
 
 ## Run
 1. `$ git clone https://github.com/C2BoT/code_shot.git`
