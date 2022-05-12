@@ -1,9 +1,10 @@
-<a href="https://t.me/serenecorp"><img alt="Issues" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/us7a5"><img alt="Issues" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-**📒 Source code of the** [@PicodeBot](https://t.me/picodebot)
 
-**🧸 Developer:** [@hoosnick](https://t.me/hoosnick)
-<hr>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/C2BoT/code_shot)
+
+### Hard Way (VPS)
 
 ## Run
 1. `$ git clone https://github.com/hoosnick/picodebot.git`
