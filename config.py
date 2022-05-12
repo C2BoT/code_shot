@@ -1,3 +1,2 @@
 class Config:
-    bot_token = input ("BOT_TOKEN")
-    print = ("Done")
+    bot_token = "BOT_TOKEN"
