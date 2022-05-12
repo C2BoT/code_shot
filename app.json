@@ -1,0 +1,29 @@
+{
+    "name": "code shot",
+    "description": "code shot :)",
+    "repository": "https://github.com/C2BoT/code_shot",
+    "logo": "https://te.legra.ph/file/3561366b27229e980bc42.jpg",
+    "keywords": [
+        "bot",
+        "code shot",
+        "code",
+        "shot"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot token Get From @Botfather"
+        },
+        "API_ID": {
+            "description": "Your API_ID Get From https://my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "Your API_HASH Get From https://my.telegram.org/apps"
+        
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
