@@ -2,9 +2,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/C2BoT/code_shot)
 
-### Hard Way (VPS)
 
 ## Run
 1. `$ git clone https://github.com/hoosnick/picodebot.git`
