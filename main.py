@@ -1,19 +1,19 @@
-import os
-from pyrogram import Client, filters
-from pyrogram.types import Message, CallbackQuery
-from config import Config
 import asyncio
+
+from telebot import TeleBot
+from telebot.types import Message, CallbackQuery
+import os
+
 from carbonAPI import carbonPhoto
+from config import Config
 from buttons import themes, colors, main_menu, remove_keyboard
 from db_connector import sql_con, new_user, \
     updater_theme, updater_color, existing_checker, \
     themeANDcolor
 
-bot = Client(
-    "Code shot ",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+bot = TeleBot(
+    token=Config.bot_token,
+    parse_mode="Markdown"
 )
 
 
