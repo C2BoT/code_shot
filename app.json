@@ -10,14 +10,8 @@
         "shot"
     ],
     "env": {
-        "BOT_TOKEN": {
+        "bot_token": {
             "description": "Your Bot token Get From @Botfather"
-        },
-        "API_ID": {
-            "description": "Your API_ID Get From https://my.telegram.org/apps"
-        },
-        "API_HASH": {
-            "description": "Your API_HASH Get From https://my.telegram.org/apps"
         
         }
     },
